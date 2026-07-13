@@ -1,0 +1,9 @@
+class LocalVariable{
+	public static void main(String[] args){
+		{
+			String s = "Pallavi";
+			System.out.println("Hello"+s);
+		}
+	}
+	
+}
