@@ -1,7 +1,11 @@
 class Loop1{
 	public static void main(String[] args){
-		for(int i=0; i<10; i++){
-			System.out.println(i);
-		}
+		
+		//Increament is not mendatory
+		boolean res = true;
+		do{
+			System.out.println("Hii");
+			res = false;
+		}while(res);
 	}
 }
