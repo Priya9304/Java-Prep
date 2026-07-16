@@ -1,0 +1,28 @@
+class fun1{
+	public static void main(String[] args){
+		//parameter can be declared as Obj ref,Inbuild class or Userdefined class
+		//Method signature
+		//Method declaration
+		//Method definition
+		//Formal Argument
+		//Actual Argument
+		//Access modifires
+			//Private:-within Classes
+			//Protected:-within class and within package
+			//Public:-Access anywhere
+			
+			m1();//method call
+		
+		
+		
+	}
+	
+	static public void m1()//formal arguemnt{
+		System.out.println("Demo method");
+	}
+	public static int m2(){
+			int a = 10, b=20;
+			
+			return a,b;
+	}
+}
